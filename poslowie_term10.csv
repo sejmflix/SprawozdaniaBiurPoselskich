@@ -1,0 +1,499 @@
+"id","firstName","secondName","lastName","firstLastName","club","districtNum","districtName","voivodeship","email","active"
+1,"Andrzej","Mieczysław","Adamczyk","Andrzej Adamczyk","PiS",13,"Kraków","małopolskie","Andrzej.Adamczyk@sejm.pl",true
+2,"Piotr",,"Adamowicz","Piotr Adamowicz","KO",25,"Gdańsk","pomorskie","Piotr.Adamowicz@sejm.pl",true
+3,"Adam",,"Andruszkiewicz","Adam Andruszkiewicz","PiS",24,"Białystok","podlaskie","Adam.Andruszkiewicz@sejm.pl",false
+4,"Waldemar","Franciszek","Andzel","Waldemar Andzel","PiS",32,"Katowice","śląskie","Waldemar.Andzel@sejm.pl",true
+5,"Dorota","Irvina","Arciszewska-Mielewczyk","Dorota Arciszewska-Mielewczyk","PiS",26,"Słupsk","pomorskie","Dorota.Arciszewska-Mielewczyk@sejm.pl",true
+6,"Jan","Krzysztof","Ardanowski","Jan Krzysztof Ardanowski","Republikanie",5,"Toruń","kujawsko-pomorskie","Jan.Ardanowski@sejm.pl",true
+7,"Iwona","Ewa","Arent","Iwona Ewa Arent","PiS",35,"Olsztyn","warmińsko-mazurskie","Iwona.Arent@sejm.pl",true
+8,"Bartosz","Adam","Arłukowicz","Bartosz Arłukowicz","KO",40,"Koszalin","zachodniopomorskie","Bartosz.Arlukowicz@sejm.pl",false
+9,"Marek",,"Ast","Marek Ast","PiS",8,"Zielona Góra","lubuskie","Marek.Ast@sejm.pl",true
+10,"Urszula",,"Augustyn","Urszula Augustyn","KO",15,"Tarnów","małopolskie","Urszula.Augustyn@sejm.pl",true
+11,"Piotr","Mieczysław","Babinetz","Piotr Babinetz","PiS",22,"Krosno","podkarpackie","Piotr.Babinetz@sejm.pl",true
+12,"Ryszard",,"Bartosik","Ryszard Bartosik","PiS",37,"Konin","wielkopolskie","Ryszard.Bartosik@sejm.pl",true
+13,"Władysław","Teofil","Bartoszewski","Władysław Bartoszewski","PSL-TD",19,"Warszawa","mazowieckie","Wladyslaw.Bartoszewski@sejm.pl",true
+14,"Barbara","Halina","Bartuś","Barbara Bartuś","PiS",14,"Nowy Sącz","małopolskie","Barbara.Bartus@sejm.pl",true
+15,"Paweł","Jan","Bejda","Paweł Bejda","PSL-TD",11,"Sieradz","łódzkie","Pawel.Bejda@sejm.pl",true
+16,"Konrad","Szczepan","Berkowicz","Konrad Berkowicz","Konfederacja",13,"Kraków","małopolskie","Konrad.Berkowicz@sejm.pl",true
+17,"Sylwia","Alina","Bielawska","Sylwia Bielawska","KO",2,"Wałbrzych","dolnośląskie","Sylwia.Bielawska@sejm.pl",true
+18,"Marek",,"Biernacki","Marek Biernacki","PSL-TD",26,"Słupsk","pomorskie","Marek.Biernacki@sejm.pl",true
+19,"Paweł","Kazimierz","Bliźniuk","Paweł Bliźniuk","KO",9,"Łódź","łódzkie","Pawel.Blizniuk@sejm.pl",true
+20,"Mariusz",,"Błaszczak","Mariusz Błaszczak","PiS",20,"Warszawa","mazowieckie","Mariusz.Blaszczak@sejm.pl",true
+21,"Mateusz",,"Bochenek","Mateusz Bochenek","KO",32,"Katowice","śląskie","Mateusz.Bochenek@sejm.pl",true
+22,"Rafał","Paweł","Bochenek","Rafał Bochenek","PiS",12,"Kraków","małopolskie","Rafal.Bochenek@sejm.pl",true
+23,"Izabela","Anna","Bodnar","Izabela Bodnar","niez.",3,"Wrocław","dolnośląskie","Izabela.Bodnar@sejm.pl",true
+24,"Jacek",,"Bogucki","Jacek Bogucki","PiS",24,"Białystok","podlaskie","Jacek.Bogucki@sejm.pl",true
+25,"Zbigniew",,"Bogucki","Zbigniew Bogucki","PiS",41,"Szczecin","zachodniopomorskie","Zbigniew.Bogucki@sejm.pl",false
+26,"Krzysztof",,"Bojarski","Krzysztof Bojarski","KO",6,"Lublin","lubelskie","Krzysztof.Bojarski@sejm.pl",true
+27,"Joanna","Beata","Borowiak","Joanna Borowiak","PiS",5,"Toruń","kujawsko-pomorskie","Joanna.Borowiak@sejm.pl",true
+28,"Kamil",,"Bortniczuk","Kamil Bortniczuk","PiS",16,"Płock","mazowieckie","Kamil.Bortniczuk@sejm.pl",true
+29,"Piotr",,"Borys","Piotr Borys","KO",1,"Legnica","dolnośląskie","Piotr.Borys@sejm.pl",true
+30,"Bożena","Teresa","Borys-Szopa","Bożena Borys-Szopa","PiS",29,"Katowice","śląskie","Bozena.Borys-Szopa@sejm.pl",true
+31,"Marcin","Rafał","Bosacki","Marcin Bosacki","KO",39,"Poznań","wielkopolskie","Marcin.Bosacki@sejm.pl",true
+32,"Karina","Anna","Bosak","Karina Anna Bosak","Konfederacja",20,"Warszawa","mazowieckie","Karina.Bosak@sejm.pl",true
+33,"Krzysztof",,"Bosak","Krzysztof Bosak","Konfederacja",24,"Białystok","podlaskie","Krzysztof.Bosak@sejm.pl",true
+34,"Grzegorz","Michał","Braun","Grzegorz Braun","Konfederacja",23,"Rzeszów","podkarpackie","Grzegorz.Braun@sejm.pl",false
+35,"Krzysztof",,"Brejza","Krzysztof Brejza","KO",4,"Bydgoszcz","kujawsko-pomorskie","Krzysztof.Brejza@sejm.pl",false
+36,"Agnieszka","MARIA","Buczyńska","Agnieszka Buczyńska","Polska2050-TD",25,"Gdańsk","pomorskie","Agnieszka.Buczynska@sejm.pl",true
+37,"Waldemar","Grzegorz","Buda","Waldemar Buda","PiS",9,"Łódź","łódzkie","Waldemar.Buda@sejm.pl",false
+38,"Borys","Piotr","Budka","Borys Budka","KO",31,"Katowice","śląskie","Borys.Budka@sejm.pl",false
+39,"Elżbieta","Jolanta","Burkiewicz","Elżbieta Burkiewicz","Polska2050-TD",23,"Rzeszów","podkarpackie","Elzbieta.Burkiewicz@sejm.pl",true
+40,"Lidia","Ewa","Burzyńska","Lidia Burzyńska","PiS",28,"Częstochowa","śląskie","Lidia.Burzynska@sejm.pl",true
+41,"Marek","Jan","Chmielewski","Marek Jan Chmielewski","KO",2,"Wałbrzych","dolnośląskie","Marek.Chmielewski@sejm.pl",true
+42,"Zbigniew","Michał","Chmielowiec","Zbigniew Chmielowiec","PiS",23,"Rzeszów","podkarpackie","Zbigniew.Chmielowiec@sejm.pl",true
+43,"Artur","Henryk","Chojecki","Artur Chojecki","PiS",35,"Olsztyn","warmińsko-mazurskie","Artur.Chojecki@sejm.pl",true
+44,"Kazimierz","Bogusław","Choma","Kazimierz Bogusław Choma","PiS",6,"Lublin","lubelskie","Kazimierz.Choma@sejm.pl",true
+45,"Dominika","Małgorzata","Chorosińska","Dominika Chorosińska","PiS",20,"Warszawa","mazowieckie","Dominika.Chorosinska@sejm.pl",true
+46,"Tadeusz",,"Chrzan","Tadeusz Chrzan","PiS",22,"Krosno","podkarpackie","Tadeusz.Chrzan@sejm.pl",true
+47,"Alicja","Paulina","Chybicka","Alicja Chybicka","KO",3,"Wrocław","dolnośląskie","Alicja.Chybicka@sejm.pl",true
+48,"Anna","Ewa","Cicholska","Anna Ewa Cicholska","PiS",16,"Płock","mazowieckie","Anna.Cicholska@sejm.pl",true
+49,"Janusz","Władysław","Cichoń","Janusz Cichoń","KO",35,"Olsztyn","warmińsko-mazurskie","Janusz.Cichon@sejm.pl",true
+50,"Krzysztof","Jan","Ciecióra","Krzysztof Ciecióra","PiS",10,"Piotrków Trybunalski","łódzkie","Krzysztof.Cieciora@sejm.pl",true
+51,"Janusz","Antoni","Cieszyński","Janusz Cieszyński","PiS",35,"Olsztyn","warmińsko-mazurskie","Janusz.Cieszynski@sejm.pl",true
+52,"Michał",,"Cieślak","Michał Cieślak","PiS",33,"Kielce","świętokrzyskie","Michal.Cieslak@sejm.pl",true
+53,"Żaneta",,"Cwalina-Śliwowska","Żaneta Cwalina-Śliwowska","Polska2050-TD",18,"Siedlce","mazowieckie","Zaneta.Cwalina-Sliwowska@sejm.pl",true
+54,"Krzysztof","Władysław","Czarnecki","Krzysztof Czarnecki","PiS",38,"Piła","wielkopolskie","Krzysztof.Czarnecki@sejm.pl",true
+55,"Witold","Wojciech","Czarnecki","Witold Wojciech Czarnecki","PiS",37,"Konin","wielkopolskie","Witold.Czarnecki@sejm.pl",true
+56,"Przemysław",,"Czarnek","Przemysław Czarnek","PiS",6,"Lublin","lubelskie","Przemyslaw.Czarnek@sejm.pl",true
+57,"Arkadiusz",,"Czartoryski","Arkadiusz Czartoryski","PiS",18,"Siedlce","mazowieckie","Arkadiusz.Czartoryski@sejm.pl",true
+58,"Włodzimierz",,"Czarzasty","Włodzimierz Czarzasty","Lewica",32,"Katowice","śląskie","Wlodzimierz.Czarzasty@sejm.pl",true
+59,"Jacek","Andrzej","Czerniak","Jacek Czerniak","Lewica",6,"Lublin","lubelskie","Jacek.Czerniak@sejm.pl",true
+60,"Zofia",,"Czernow","Zofia Czernow","KO",1,"Legnica","dolnośląskie","Zofia.Czernow@sejm.pl",true
+61,"Anita",,"Czerwińska","Anita Czerwińska","PiS",20,"Warszawa","mazowieckie","Anita.Czerwinska@sejm.pl",true
+62,"Katarzyna","Beata","Czochara","Katarzyna Czochara","PiS",21,"Opole","opolskie","Katarzyna.Czochara@sejm.pl",true
+63,"Sławomir",,"Ćwik","Sławomir Ćwik","Polska2050-TD",7,"Chełm","lubelskie","Slawomir.Cwik@sejm.pl",true
+64,"Władysław",,"Dajczak","Władysław Dajczak","PiS",8,"Zielona Góra","lubuskie","Wladyslaw.Dajczak@sejm.pl",true
+65,"Anna",,"Dąbrowska-Banaszek","Anna Dąbrowska-Banaszek","PiS",7,"Chełm","lubelskie","Anna.Dabrowska-Banaszek@sejm.pl",true
+66,"Zbigniew",,"Dolata","Zbigniew Dolata","PiS",37,"Konin","wielkopolskie","Zbigniew.Dolata@sejm.pl",true
+67,"Barbara",,"Dolniak","Barbara Dolniak","KO",32,"Katowice","śląskie","Barbara.Dolniak@sejm.pl",true
+68,"Andrzej","Jan","Domański","Andrzej Domański","KO",19,"Warszawa","mazowieckie","Andrzej.Domanski@sejm.pl",true
+69,"Bartłomiej",,"Dorywalski","Bartłomiej Dorywalski","PiS",33,"Kielce","świętokrzyskie","Bartlomiej.Dorywalski@sejm.pl",true
+70,"Robert",,"Dowhan","Robert Dowhan","KO",8,"Zielona Góra","lubuskie","Robert.Dowhan@sejm.pl",true
+71,"Przemysław","Mieczysław","Drabek","Przemysław Drabek","PiS",27,"Bielsko-Biała","śląskie","Przemyslaw.Drabek@sejm.pl",true
+72,"Elżbieta",,"Duda","Elżbieta Duda","PiS",13,"Kraków","małopolskie","Elzbieta.Duda@sejm.pl",true
+73,"Michał","Paweł","Dworczyk","Michał Paweł Dworczyk","PiS",2,"Wałbrzych","dolnośląskie","Michal.Dworczyk@sejm.pl",false
+74,"Adam",,"Dziedzic","Adam Dziedzic","PSL-TD",23,"Rzeszów","podkarpackie","Adam.Dziedzic@sejm.pl",true
+75,"Jan","Michał","Dziedziczak","Jan Michał Dziedziczak","PiS",36,"Kalisz","wielkopolskie","Jan.Dziedziczak@sejm.pl",true
+76,"Agnieszka","Ewa","Dziemianowicz-Bąk","Agnieszka Dziemianowicz-Bąk","Lewica",26,"Słupsk","pomorskie","Agnieszka.Dziemianowicz-Bak@sejm.pl",true
+77,"Magdalena",,"Filiks","Magdalena Filiks","KO",41,"Szczecin","zachodniopomorskie","Magdalena.Filiks@sejm.pl",true
+78,"Magdalena",,"Filipek-Sobczak","Magdalena Filipek-Sobczak","PiS",6,"Lublin","lubelskie","Magdalena.Filipek-Sobczak@sejm.pl",true
+79,"Radosław","Aleksander","Fogiel","Radosław Fogiel","PiS",17,"Radom","mazowieckie","Radoslaw.Fogiel@sejm.pl",true
+80,"Bronisław","Edward","Foltyn","Bronisław Foltyn","Konfederacja",27,"Bielsko-Biała","śląskie","Bronislaw.Foltyn@sejm.pl",true
+81,"Roman","Henryk","Fritz","Roman Fritz","Konfederacja_KP",30,"Bielsko-Biała","śląskie","Roman.Fritz@sejm.pl",true
+82,"Joanna","Zofia","Frydrych","Joanna Frydrych","KO",22,"Krosno","podkarpackie","Joanna.Frydrych@sejm.pl",true
+83,"Konrad",,"Frysztak","Konrad Frysztak","KO",17,"Radom","mazowieckie","Konrad.Frysztak@sejm.pl",true
+84,"Patryk",,"Gabriel","Patryk Gabriel","KO",25,"Gdańsk","pomorskie","Patryk.Gabriel@sejm.pl",true
+85,"Krzysztof","Jan","Gadowski","Krzysztof Gadowski","KO",30,"Bielsko-Biała","śląskie","Krzysztof.Gadowski@sejm.pl",true
+86,"Aleksandra","Małgorzata","Gajewska","Aleksandra Gajewska","KO",19,"Warszawa","mazowieckie","Aleksandra.Gajewska@sejm.pl",true
+87,"Kinga","Magdalena","Gajewska","Kinga Gajewska","KO",20,"Warszawa","mazowieckie","Kinga.Gajewska@sejm.pl",true
+88,"Elżbieta","Teresa","Gapińska","Elżbieta Gapińska","KO",16,"Płock","mazowieckie","Elzbieta.Gapinska@sejm.pl",true
+89,"Kamila",,"Gasiuk-Pihowicz","Kamila Gasiuk-Pihowicz","KO",18,"Siedlce","mazowieckie","Kamila.Gasiuk-Pihowicz@sejm.pl",false
+90,"Krzysztof","Kamil","Gawkowski","Krzysztof Gawkowski","Lewica",4,"Bydgoszcz","kujawsko-pomorskie","Krzysztof.Gawkowski@sejm.pl",true
+91,"Zdzisław",,"Gawlik","Zdzisław Gawlik","KO",23,"Rzeszów","podkarpackie","Zdzislaw.Gawlik@sejm.pl",true
+92,"Andrzej","Janusz","Gawron","Andrzej Gawron","PiS",28,"Częstochowa","śląskie","Andrzej.Gawron@sejm.pl",true
+93,"Grzegorz","Krzysztof","Gaża","Grzegorz Gaża","PiS",27,"Bielsko-Biała","śląskie","Grzegorz.Gaza@sejm.pl",true
+94,"Elżbieta","Kazimiera","Gelert","Elżbieta Gelert","KO",34,"Elbląg","warmińsko-mazurskie","Elzbieta.Gelert@sejm.pl",true
+95,"Anna","Urszula","Gembicka","Anna Gembicka","PiS",5,"Toruń","kujawsko-pomorskie","Anna.Gembicka@sejm.pl",true
+96,"Artur","Daniel","Gierada","Artur Daniel Gierada","KO",33,"Kielce","świętokrzyskie","Artur.Gierada@sejm.pl",true
+97,"Roman","Jacek","Giertych","Roman Giertych","KO",33,"Kielce","świętokrzyskie","Roman.Giertych@sejm.pl",true
+98,"Włodzisław",,"Giziński","Włodzisław Giziński","KO",4,"Bydgoszcz","kujawsko-pomorskie","Wlodzislaw.Gizinski@sejm.pl",true
+99,"Szymon","Stanisław","Giżyński","Szymon Giżyński","PiS",28,"Częstochowa","śląskie","Szymon.Gizynski@sejm.pl",true
+100,"Piotr","Tadeusz","Gliński","Piotr Gliński","PiS",19,"Warszawa","mazowieckie","Piotr.Glinski@sejm.pl",true
+101,"Tomasz","Marian","Głogowski","Tomasz Głogowski","KO",29,"Katowice","śląskie","Tomasz.Glogowski@sejm.pl",true
+102,"Piotr","Krzysztof","Głowski","Piotr Głowski","KO",38,"Piła","wielkopolskie","Piotr.Glowski@sejm.pl",true
+103,"Marta","Joanna","Golbik","Marta Golbik","KO",29,"Katowice","śląskie","Marta.Golbik@sejm.pl",true
+104,"Małgorzata","Joanna","Golińska","Małgorzata Golińska","PiS",40,"Koszalin","zachodniopomorskie","Malgorzata.Golinska@sejm.pl",true
+105,"Kazimierz","Edward","Gołojuch","Kazimierz Gołojuch","PiS",23,"Rzeszów","podkarpackie","Kazimierz.Golojuch@sejm.pl",true
+106,"Adam","Michał","Gomoła","Adam Gomoła","niez.",21,"Opole","opolskie","Adam.Gomola@sejm.pl",true
+107,"Robert",,"Gontarz","Robert Gontarz","PiS",34,"Elbląg","warmińsko-mazurskie","Robert.Gontarz@sejm.pl",true
+108,"Stanisław","Andrzej","Gorczyca","Stanisław Gorczyca","KO",34,"Elbląg","warmińsko-mazurskie","Stanislaw.Gorczyca@sejm.pl",true
+109,"Mariusz","Marek","Gosek","Mariusz Gosek","PiS",33,"Kielce","świętokrzyskie","Mariusz.Gosek@sejm.pl",true
+110,"Daria","Iwona","Gosek-Popiołek","Daria Gosek-Popiołek","Lewica",13,"Kraków","małopolskie","Daria.Gosek-Popiolek@sejm.pl",true
+111,"Małgorzata","Maria","Gosiewska","Małgorzata Gosiewska","PiS",19,"Warszawa","mazowieckie","Malgorzata.Gosiewska@sejm.pl",false
+112,"Piotr","Tadeusz","Górnikiewicz","Piotr Górnikiewicz","Polska2050-TD",15,"Tarnów","małopolskie","Piotr.Gornikiewicz@sejm.pl",true
+113,"Agnieszka","Beata","Górska","Agnieszka Górska","PiS",17,"Radom","mazowieckie","Agnieszka.Gorska@sejm.pl",true
+114,"Krzysztof",,"Grabczuk","Krzysztof Grabczuk","KO",7,"Chełm","lubelskie","Krzysztof.Grabczuk@sejm.pl",true
+115,"Jan","Stanisław","Grabiec","Jan Grabiec","KO",20,"Warszawa","mazowieckie","Jan.Grabiec@sejm.pl",true
+116,"Marcin",,"Grabowski","Marcin Grabowski","PiS",18,"Siedlce","mazowieckie","Marcin.Grabowski@sejm.pl",true
+117,"Michał","Sebastian","Gramatyka","Michał Gramatyka","Polska2050-TD",31,"Katowice","śląskie","Michal.Gramatyka@sejm.pl",true
+118,"Małgorzata",,"Gromadzka","Małgorzata Gromadzka","KO",7,"Chełm","lubelskie","Malgorzata.Gromadzka@sejm.pl",true
+119,"Marek",,"Gróbarczyk","Marek Gróbarczyk","PiS",41,"Szczecin","zachodniopomorskie","Marek.Grobarczyk@sejm.pl",true
+120,"Andrzej","Marian","Grzyb","Andrzej Grzyb","PSL-TD",36,"Kalisz","wielkopolskie","Andrzej.Grzyb@sejm.pl",true
+121,"Andrzej",,"Gut-Mostowy","Andrzej Gut-Mostowy","PiS",14,"Nowy Sącz","małopolskie","Andrzej.Gut-Mostowy@sejm.pl",true
+122,"Kazimierz",,"Gwiazdowski","Kazimierz Gwiazdowski","PiS",24,"Białystok","podlaskie","Kazimierz.Gwiazdowski@sejm.pl",true
+123,"Marcin","Piotr","Gwóźdź","Marcin Gwóźdź","PiS",2,"Wałbrzych","dolnośląskie","Marcin.Gwozdz@sejm.pl",true
+124,"Marek","Krzysztof","Gzik","Marek Gzik","KO",29,"Katowice","śląskie","Marek.Gzik@sejm.pl",true
+125,"Krzysztof","Stefan","Habura","Krzysztof Habura","KO",11,"Sieradz","łódzkie","Krzysztof.Habura@sejm.pl",true
+126,"Agnieszka","Małgorzata","Hanajczyk","Agnieszka Hanajczyk","KO",11,"Sieradz","łódzkie","Agnieszka.Hanajczyk@sejm.pl",true
+127,"Iwona",,"Hartwich","Iwona Hartwich","KO",5,"Toruń","kujawsko-pomorskie","Iwona.Hartwich@sejm.pl",true
+128,"Paulina",,"Hennig-Kloska","Paulina Hennig-Kloska","Polska2050-TD",37,"Konin","wielkopolskie","Paulina.Hennig-Kloska@sejm.pl",true
+129,"Krzysztof","Andrzej","Hetman","Krzysztof Hetman","PSL-TD",6,"Lublin","lubelskie","Krzysztof.Hetman@sejm.pl",false
+130,"Czesław",,"Hoc","Czesław Hoc","PiS",40,"Koszalin","zachodniopomorskie","Czeslaw.Hoc@sejm.pl",true
+131,"Zbigniew","Grzegorz","Hoffmann","Zbigniew Hoffmann","PiS",37,"Konin","wielkopolskie","Zbigniew.Hoffmann@sejm.pl",true
+132,"Marek","Tomasz","Hok","Marek Tomasz Hok","KO",40,"Koszalin","zachodniopomorskie","Marek.Hok@sejm.pl",true
+133,"Szymon","Franciszek","Hołownia","Szymon Hołownia","Polska2050-TD",24,"Białystok","podlaskie","Szymon.Holownia@sejm.pl",true
+134,"Marcin","Michał","Horała","Marcin Horała","PiS",26,"Słupsk","pomorskie","Marcin.Horala@sejm.pl",true
+135,"Łukasz",,"Horbatowski","Łukasz Horbatowski","KO",1,"Legnica","dolnośląskie","Lukasz.Horbatowski@sejm.pl",true
+136,"Paweł","Marek","Hreniak","Paweł Hreniak","PiS",3,"Wrocław","dolnośląskie","Pawel.Hreniak@sejm.pl",true
+137,"Paweł",,"Jabłoński","Paweł Jabłoński","PiS",30,"Bielsko-Biała","śląskie","Pawel.Jablonski@sejm.pl",true
+138,"Klaudia","Krystyna","Jachira","Klaudia Jachira","KO",19,"Warszawa","mazowieckie","Klaudia.Jachira@sejm.pl",true
+139,"Marek",,"Jakubiak","Marek Jakubiak","Republikanie",19,"Warszawa","mazowieckie","Marek.Jakubiak@sejm.pl",true
+140,"Maria","Małgorzata","Janyska","Maria Małgorzata Janyska","KO",38,"Piła","wielkopolskie","Maria.Janyska@sejm.pl",true
+141,"Michał",,"Jaros","Michał Jaros","KO",3,"Wrocław","dolnośląskie","Michal.Jaros@sejm.pl",true
+142,"Patryk","Bartłomiej","Jaskulski","Patryk Jaskulski","KO",41,"Szczecin","zachodniopomorskie","Patryk.Jaskulski@sejm.pl",true
+143,"Danuta","Maria","Jazłowiecka","Danuta Jazłowiecka","KO",21,"Opole","opolskie","Danuta.Jazlowiecka@sejm.pl",true
+144,"Dariusz",,"Joński","Dariusz Joński","KO",9,"Łódź","łódzkie","Dariusz.Jonski@sejm.pl",false
+145,"Marcin",,"Józefaciuk","Marcin Józefaciuk","KO",9,"Łódź","łódzkie","Marcin.Jozefaciuk@sejm.pl",true
+146,"Norbert","Jakub","Kaczmarczyk","Norbert Jakub Kaczmarczyk","PiS",15,"Tarnów","małopolskie","Norbert.Kaczmarczyk@sejm.pl",true
+147,"Filip","Roman","Kaczyński","Filip Kaczyński","PiS",12,"Kraków","małopolskie","Filip.Kaczynski@sejm.pl",true
+148,"Jarosław","Aleksander","Kaczyński","Jarosław Kaczyński","PiS",33,"Kielce","świętokrzyskie","Jaroslaw.Kaczynski@sejm.pl",true
+149,"Piotr","Marek","Kaleta","Piotr Kaleta","PiS",36,"Kalisz","wielkopolskie","Piotr.Kaleta@sejm.pl",true
+150,"Sebastian","Jerzy","Kaleta","Sebastian Kaleta","PiS",19,"Warszawa","mazowieckie","Sebastian.Kaleta@sejm.pl",true
+151,"Mariusz",,"Kałużny","Mariusz Kałużny","PiS",5,"Toruń","kujawsko-pomorskie","Mariusz.Kaluzny@sejm.pl",true
+152,"Mariusz",,"Kamiński","Mariusz Kamiński","PiS",7,"Chełm","lubelskie","Mariusz.Kaminski@sejm.pl",false
+153,"Piotr",,"Kandyba","Piotr Kandyba","KO",20,"Warszawa","mazowieckie","Piotr.Kandyba@sejm.pl",true
+154,"Jan","Jakub","Kanthak","Jan Kanthak","PiS",6,"Lublin","lubelskie","Jan.Kanthak@sejm.pl",true
+155,"Fryderyk","Sylwester","Kapinos","Fryderyk Sylwester Kapinos","PiS",23,"Rzeszów","podkarpackie","Fryderyk.Kapinos@sejm.pl",true
+156,"Jacek","Karnowski","Karnowski","Jacek Karnowski","KO",25,"Gdańsk","pomorskie","Jacek.Karnowski@sejm.pl",true
+157,"Iwona",,"Karolewska","Iwona Karolewska","KO",4,"Bydgoszcz","kujawsko-pomorskie","Iwona.Karolewska@sejm.pl",true
+158,"Rafał","Marcin","Kasprzyk","Rafał Kasprzyk","Polska2050-TD",33,"Kielce","świętokrzyskie","Rafal.Kasprzyk@sejm.pl",true
+159,"Henryk",,"Kiepura","Henryk Kiepura","PSL-TD",28,"Częstochowa","śląskie","Henryk.Kiepura@sejm.pl",true
+160,"Marcin","Piotr","Kierwiński","Marcin Kierwiński","KO",16,"Płock","mazowieckie","Marcin.Kierwinski@sejm.pl",false
+161,"Katarzyna","Renata","Kierzek-Koperska","Katarzyna Kierzek-Koperska","KO",39,"Poznań","wielkopolskie","Katarzyna.Kierzek-Koperska@sejm.pl",true
+162,"Dariusz",,"Klimczak","Dariusz Klimczak","PSL-TD",10,"Piotrków Trybunalski","łódzkie","Dariusz.Klimczak@sejm.pl",true
+163,"Joanna","Grażyna","Kluzik-Rostkowska","Joanna Kluzik-Rostkowska","KO",17,"Radom","mazowieckie","Joanna.Kluzik-Rostkowska@sejm.pl",true
+164,"Agnieszka","Maria","Kłopotek","Agnieszka Maria Kłopotek","PSL-TD",4,"Bydgoszcz","kujawsko-pomorskie","Agnieszka.Klopotek@sejm.pl",true
+165,"Łukasz","Marek","Kmita","Łukasz Kmita","PiS",12,"Kraków","małopolskie","Lukasz.Kmita@sejm.pl",true
+166,"Michał","Andrzej","Kobosko","Michał Kobosko","Polska2050-TD",19,"Warszawa","mazowieckie","Michal.Kobosko@sejm.pl",false
+167,"Maria","Zofia","Koc","Maria Koc","PiS",18,"Siedlce","mazowieckie","Maria.Koc@sejm.pl",true
+168,"Ewa","Edyta","Kołodziej","Ewa Kołodziej","KO",31,"Katowice","śląskie","Ewa.Kolodziej@sejm.pl",true
+169,"Magdalena","Małgorzata","Kołodziejczak","Magdalena Małgorzata Kołodziejczak","KO",25,"Gdańsk","pomorskie","Magdalena.Kolodziejczak@sejm.pl",true
+170,"Michał",,"Kołodziejczak","Michał Kołodziejczak","KO",37,"Konin","wielkopolskie","Michal.Kolodziejczak@sejm.pl",true
+171,"Rafał","Paweł","Komarewicz","Rafał Komarewicz","Polska2050-TD",13,"Kraków","małopolskie","Rafal.Komarewicz@sejm.pl",true
+172,"Maciej",,"Konieczny","Maciej Konieczny","Razem",31,"Katowice","śląskie","Maciej.Konieczny@sejm.pl",true
+173,"Zbigniew","Marek","Konwiński","Zbigniew Konwiński","KO",26,"Słupsk","pomorskie","Zbigniew.Konwinski@sejm.pl",true
+174,"Władysław","Marcin","Kosiniak-Kamysz","Władysław Kosiniak-Kamysz","PSL-TD",15,"Tarnów","małopolskie","Wladyslaw.Kosiniak-Kamysz@sejm.pl",true
+175,"Tomasz","Tadeusz","Kostuś","Tomasz Kostuś","KO",21,"Opole","opolskie","Tomasz.Kostus@sejm.pl",true
+176,"Andrzej","Tomasz","Kosztowniak","Andrzej Kosztowniak","PiS",17,"Radom","mazowieckie","Andrzej.Kosztowniak@sejm.pl",true
+177,"Katarzyna",,"Kotula","Katarzyna Kotula","Lewica",25,"Gdańsk","pomorskie","Katarzyna.Kotula@sejm.pl",true
+178,"Paweł",,"Kowal","Paweł Kowal","KO",23,"Rzeszów","podkarpackie","Pawel.Kowal@sejm.pl",true
+179,"Henryk",,"Kowalczyk","Henryk Kowalczyk","PiS",18,"Siedlce","mazowieckie","Henryk.Kowalczyk@sejm.pl",true
+180,"Janusz","Marcin","Kowalski","Janusz Kowalski","PiS",21,"Opole","opolskie","Janusz.Kowalski@sejm.pl",true
+181,"Bartosz","Józef","Kownacki","Bartosz Józef Kownacki","PiS",4,"Bydgoszcz","kujawsko-pomorskie","Bartosz.Kownacki@sejm.pl",true
+182,"Iwona","Maria","Kozłowska","Iwona Maria Kozłowska","KO",4,"Bydgoszcz","kujawsko-pomorskie","Iwona.Kozlowska@sejm.pl",true
+183,"Stefan",,"Krajewski","Stefan Krajewski","PSL-TD",24,"Białystok","podlaskie","Stefan.Krajewski@sejm.pl",true
+184,"Wiesław",,"Krajewski","Wiesław Krajewski","PiS",15,"Tarnów","małopolskie","Wieslaw.Krajewski@sejm.pl",true
+185,"Leonard","Seweryn","Krasulski","Leonard Krasulski","PiS",34,"Elbląg","warmińsko-mazurskie","Leonard.Krasulski@sejm.pl",true
+186,"Iwona","Małgorzata","Krawczyk","Iwona Małgorzata Krawczyk","KO",1,"Legnica","dolnośląskie","Iwona.Krawczyk@sejm.pl",true
+187,"Michał",,"Krawczyk","Michał Krawczyk","KO",6,"Lublin","lubelskie","Michal.Krawczyk@sejm.pl",true
+188,"Robert",,"Kropiwnicki","Robert Kropiwnicki","KO",1,"Legnica","dolnośląskie","Robert.Kropiwnicki@sejm.pl",true
+189,"Piotr","Marek","Król","Piotr Król","PiS",4,"Bydgoszcz","kujawsko-pomorskie","Piotr.Krol@sejm.pl",true
+190,"Wojciech","Piotr","Król","Wojciech Król","KO",31,"Katowice","śląskie","Wojciech.Krol@sejm.pl",true
+191,"Anna","Maria","Krupka","Anna Krupka","PiS",33,"Kielce","świętokrzyskie","Anna.Krupka@sejm.pl",true
+192,"Andrzej","Michał","Kryj","Andrzej Kryj","PiS",33,"Kielce","świętokrzyskie","Andrzej.Kryj@sejm.pl",true
+193,"Mariusz","Tomasz","Krystian","Mariusz Krystian","PiS",12,"Kraków","małopolskie","Mariusz.Krystian@sejm.pl",true
+194,"Marek","Grzegorz","Krząkała","Marek Krząkała","KO",30,"Bielsko-Biała","śląskie","Marek.Krzakala@sejm.pl",true
+195,"Adam",,"Krzemiński","Adam Krzemiński","KO",16,"Płock","mazowieckie","Adam.Krzeminski@sejm.pl",true
+196,"Henryka","Krystyna","Krzywonos-Strycharska","Henryka Krzywonos-Strycharska","KO",26,"Słupsk","pomorskie","Henryka.Krzywonos-Strycharska@sejm.pl",true
+197,"Krzysztof","Jan","Kubów","Krzysztof Kubów","PiS",1,"Legnica","dolnośląskie","Krzysztof.Kubow@sejm.pl",true
+198,"Anita","Agnieszka","Kucharska-Dziedzic","Anita Kucharska-Dziedzic","Lewica",8,"Zielona Góra","lubuskie","Anita.Kucharska-Dziedzic@sejm.pl",true
+199,"Marek","Tadeusz","Kuchciński","Marek Kuchciński","PiS",22,"Krosno","podkarpackie","Marek.Kuchcinski@sejm.pl",true
+200,"Paweł","Piotr","Kukiz","Paweł Kukiz","Republikanie",21,"Opole","opolskie","Pawel.Kukiz@sejm.pl",true
+201,"Marcin","Robert","Kulasek","Marcin Kulasek","Lewica",35,"Olsztyn","warmińsko-mazurskie","Marcin.Kulasek@sejm.pl",true
+202,"Maria","Stanisława","Kurowska","Maria Kurowska","PiS",22,"Krosno","podkarpackie","Maria.Kurowska@sejm.pl",true
+203,"Władysław","Michał","Kurowski","Władysław Kurowski","PiS",12,"Kraków","małopolskie","Wladyslaw.Kurowski@sejm.pl",true
+204,"Zbigniew","Krzysztof","Kuźmiuk","Zbigniew Krzysztof Kuźmiuk","PiS",17,"Radom","mazowieckie","Zbigniew.Kuzmiuk@sejm.pl",true
+205,"Anna",,"Kwiecień","Anna Kwiecień","PiS",17,"Radom","mazowieckie","Anna.Kwiecien@sejm.pl",true
+206,"Piotr","Michał","Lachowicz","Piotr Lachowicz","KO",14,"Nowy Sącz","małopolskie","Piotr.Lachowicz@sejm.pl",true
+207,"Stanisław","Józef","Lamczyk","Stanisław Lamczyk","KO",26,"Słupsk","pomorskie","Stanislaw.Lamczyk@sejm.pl",true
+208,"Maciej","Grzegorz","Lasek","Maciej Lasek","KO",20,"Warszawa","mazowieckie","Maciej.Lasek@sejm.pl",true
+209,"Gabriela","Teresa","Lenartowicz","Gabriela Lenartowicz","KO",30,"Bielsko-Biała","śląskie","Gabriela.Lenartowicz@sejm.pl",true
+210,"Ewa","Maria","Leniart","Ewa Leniart","PiS",23,"Rzeszów","podkarpackie","Ewa.Leniart@sejm.pl",true
+211,"Aleksandra","Maria","Leo","Aleksandra Leo","Polska2050-TD",2,"Wałbrzych","dolnośląskie","Aleksandra.Leo@sejm.pl",true
+212,"Izabela","Dorota","Leszczyna","Izabela Leszczyna","KO",28,"Częstochowa","śląskie","Izabela.Leszczyna@sejm.pl",true
+213,"Joanna","Katarzyna","Lichocka","Joanna Lichocka","PiS",11,"Sieradz","łódzkie","Joanna.Lichocka@sejm.pl",true
+214,"Krzysztof","Bogdan","Lipiec","Krzysztof Lipiec","PiS",33,"Kielce","świętokrzyskie","Krzysztof.Lipiec@sejm.pl",true
+215,"Łukasz","Karol","Litewka","Łukasz Litewka","Lewica",32,"Katowice","śląskie","Lukasz.Litewka@sejm.pl",true
+216,"Grzegorz","Andrzej","Lorek","Grzegorz Lorek","PiS",10,"Piotrków Trybunalski","łódzkie","Grzegorz.Lorek@sejm.pl",true
+217,"Radosław",,"Lubczyk","Radosław Lubczyk","PSL-TD",40,"Koszalin","zachodniopomorskie","Radoslaw.Lubczyk@sejm.pl",true
+218,"Katarzyna","Anna","Lubnauer","Katarzyna Anna Lubnauer","KO",19,"Warszawa","mazowieckie","Katarzyna.Lubnauer@sejm.pl",true
+219,"Adam","Sławomir","Luboński","Adam Luboński","Polska2050-TD",38,"Piła","wielkopolskie","Adam.Lubonski@sejm.pl",true
+220,"Artur","Jarosław","Łącki","Artur Jarosław Łącki","KO",41,"Szczecin","zachodniopomorskie","Artur.Lacki@sejm.pl",true
+221,"Alicja",,"Łepkowska-Gołaś","Alicja Łepkowska-Gołaś","KO",24,"Białystok","podlaskie","Alicja.Lepkowska-Golas@sejm.pl",true
+222,"Dorota","Ewa","Łoboda","Dorota Łoboda","KO",19,"Warszawa","mazowieckie","Dorota.Loboda@sejm.pl",true
+223,"Krystian","Marek","Łuczak","Krystian Łuczak","KO",5,"Toruń","kujawsko-pomorskie","Krystian.Luczak@sejm.pl",true
+224,"Sebastian",,"Łukaszewicz","Sebastian Łukaszewicz","PiS",24,"Białystok","podlaskie","Sebastian.Lukaszewicz@sejm.pl",true
+225,"Marzena","Anna","Machałek","Marzena Anna Machałek","PiS",1,"Legnica","dolnośląskie","Marzena.Machalek@sejm.pl",true
+226,"Antoni",,"Macierewicz","Antoni Macierewicz","PiS",10,"Piotrków Trybunalski","łódzkie","Antoni.Macierewicz@sejm.pl",true
+227,"Marlena","Magdalena","Maląg","Marlena Magdalena Maląg","PiS",36,"Kalisz","wielkopolskie","Marlena.Malag@sejm.pl",false
+228,"Ewa","Danuta","Malik","Ewa Malik","PiS",32,"Katowice","śląskie","Ewa.Malik@sejm.pl",true
+229,"Mirosław","Wojciech","Maliszewski","Mirosław Maliszewski","PSL-TD",17,"Radom","mazowieckie","Miroslaw.Maliszewski@sejm.pl",true
+230,"Maciej",,"Małecki","Maciej Małecki","PiS",16,"Płock","mazowieckie","Maciej.Malecki@sejm.pl",true
+231,"Arkadiusz",,"Marchewka","Arkadiusz Marchewka","KO",41,"Szczecin","zachodniopomorskie","Arkadiusz.Marchewka@sejm.pl",true
+232,"Jagna","Kinga","Marczułajtis-Walczak","Jagna Marczułajtis-Walczak","KO",13,"Kraków","małopolskie","Jagna.Marczulajtis-Walczak@sejm.pl",false
+233,"Dorota",,"Marek","Dorota Marek","KO",13,"Kraków","małopolskie","Dorota.Marek@sejm.pl",true
+234,"Dariusz","Piotr","Matecki","Dariusz Matecki","PiS",41,"Szczecin","zachodniopomorskie","Dariusz.Matecki@sejm.pl",true
+235,"Jerzy","Marian","Materna","Jerzy Materna","PiS",8,"Zielona Góra","lubuskie","Jerzy.Materna@sejm.pl",true
+236,"Grzegorz",,"Matusiak","Grzegorz Matusiak","PiS",30,"Bielsko-Biała","śląskie","Grzegorz.Matusiak@sejm.pl",true
+237,"Katarzyna","Irena","Matusik-Lipiec","Katarzyna Matusik-Lipiec","KO",13,"Kraków","małopolskie","Katarzyna.Matusik-Lipiec@sejm.pl",true
+238,"Marek",,"Matuszewski","Marek Matuszewski","PiS",11,"Sieradz","łódzkie","Marek.Matuszewski@sejm.pl",true
+239,"Paulina",,"Matysiak","Paulina Matysiak","Razem",11,"Sieradz","łódzkie","Paulina.Matysiak@sejm.pl",true
+240,"Łukasz",,"Mejza","Łukasz Mejza","PiS",8,"Zielona Góra","lubuskie","Lukasz.Mejza@sejm.pl",true
+241,"Sławomir","Jerzy","Mentzen","Sławomir Mentzen","Konfederacja",19,"Warszawa","mazowieckie","Slawomir.Mentzen@sejm.pl",true
+242,"Anna","Maria","Milczanowska","Anna Milczanowska","PiS",10,"Piotrków Trybunalski","łódzkie","Anna.Milczanowska@sejm.pl",true
+243,"Daniel","George","Milewski","Daniel Milewski","PiS",18,"Siedlce","mazowieckie","Daniel.Milewski@sejm.pl",true
+244,"Rajmund","Tadeusz","Miller","Rajmund Miller","KO",21,"Opole","opolskie","Rajmund.Miller@sejm.pl",false
+245,"Aleksander","Jan","Miszalski","Aleksander Miszalski","KO",13,"Kraków","małopolskie","Aleksander.Miszalski@sejm.pl",false
+246,"Mateusz","Jakub","Morawiecki","Mateusz Morawiecki","PiS",31,"Katowice","śląskie","Mateusz.Morawiecki@sejm.pl",true
+247,"Jan",,"Mosiński","Jan Mosiński","PiS",36,"Kalisz","wielkopolskie","Jan.Mosinski@sejm.pl",true
+248,"Michał",,"Moskal","Michał Moskal","PiS",6,"Lublin","lubelskie","Michal.Moskal@sejm.pl",true
+249,"Czesław",,"Mroczek","Czesław Mroczek","KO",18,"Siedlce","mazowieckie","Czeslaw.Mroczek@sejm.pl",true
+250,"Aleksander","Mikołaj","Mrówczyński","Aleksander Mikołaj Mrówczyński","PiS",26,"Słupsk","pomorskie","Aleksander.Mrowczynski@sejm.pl",true
+251,"Izabela","Katarzyna","Mrzygłocka","Izabela Katarzyna Mrzygłocka","KO",2,"Wałbrzych","dolnośląskie","Izabela.Mrzyglocka@sejm.pl",false
+252,"Joanna",,"Mucha","Joanna Mucha","Polska2050-TD",6,"Lublin","lubelskie","Joanna.Mucha@sejm.pl",true
+253,"Arkadiusz",,"Mularczyk","Arkadiusz Mularczyk","PiS",14,"Nowy Sącz","małopolskie","Arkadiusz.Mularczyk@sejm.pl",false
+254,"Krzysztof",,"Mulawa","Krzysztof Mulawa","Konfederacja",18,"Siedlce","mazowieckie","Krzysztof.Mulawa@sejm.pl",true
+255,"Piotr","Józef","Müller","Piotr Müller","PiS",26,"Słupsk","pomorskie","Piotr.Muller@sejm.pl",false
+256,"Arkadiusz",,"Myrcha","Arkadiusz Myrcha","KO",5,"Toruń","kujawsko-pomorskie","Arkadiusz.Myrcha@sejm.pl",true
+257,"Grzegorz","Bernard","Napieralski","Grzegorz Napieralski","KO",41,"Szczecin","zachodniopomorskie","Grzegorz.Napieralski@sejm.pl",true
+258,"Dorota",,"Niedziela","Dorota Niedziela","KO",12,"Kraków","małopolskie","Dorota.Niedziela@sejm.pl",true
+259,"Jacek",,"Niedźwiedzki","Jacek Niedźwiedzki","KO",24,"Białystok","podlaskie","Jacek.Niedzwiedzki@sejm.pl",true
+260,"Małgorzata","Barbara","Niemczyk","Małgorzata Niemczyk","KO",9,"Łódź","łódzkie","Malgorzata.Niemczyk@sejm.pl",true
+261,"Jolanta","Magdalena","Niezgodzka","Jolanta Niezgodzka","KO",3,"Wrocław","dolnośląskie","Jolanta.Niezgodzka@sejm.pl",true
+262,"Sławomir",,"Nitras","Sławomir Nitras","KO",41,"Szczecin","zachodniopomorskie","Slawomir.Nitras@sejm.pl",true
+263,"Barbara","Anna","Nowacka","Barbara Nowacka","KO",26,"Słupsk","pomorskie","Barbara.Nowacka@sejm.pl",true
+264,"Maja","Ewa","Nowak","Maja Ewa Nowak","Polska2050-TD",8,"Zielona Góra","lubuskie","Maja.Nowak@sejm.pl",true
+265,"Tomasz","Piotr","Nowak","Tomasz Piotr Nowak","KO",37,"Konin","wielkopolskie","Tomasz.Nowak@sejm.pl",true
+266,"Wanda","Hanna","Nowicka","Wanda Nowicka","Lewica",29,"Katowice","śląskie","Wanda.Nowicka@sejm.pl",true
+267,"Urszula","Teresa","Nowogórska","Urszula Nowogórska","PSL-TD",14,"Nowy Sącz","małopolskie","Urszula.Nowogorska@sejm.pl",true
+268,"Mirosława",,"Nykiel","Mirosława Nykiel","KO",27,"Bielsko-Biała","śląskie","Miroslawa.Nykiel@sejm.pl",false
+269,"Marcin","Michał","Ociepa","Marcin Ociepa","PiS",21,"Opole","opolskie","Marcin.Ociepa@sejm.pl",true
+270,"Marzena",,"Okła-Drewnowicz","Marzena Okła-Drewnowicz","KO",33,"Kielce","świętokrzyskie","Marzena.Okla-Drewnowicz@sejm.pl",true
+271,"Barbara",,"Okuła","Barbara Okuła","Polska2050-TD",24,"Białystok","podlaskie","Barbara.Okula@sejm.pl",true
+272,"Barbara","Anna","Oliwiecka","Barbara Oliwiecka","Polska2050-TD",36,"Kalisz","wielkopolskie","Barbara.Oliwiecka@sejm.pl",true
+273,"Dorota","Zofia","Olko","Dorota Olko","Lewica",19,"Warszawa","mazowieckie","Dorota.Olko@sejm.pl",true
+274,"Paweł","Bartosz","Olszewski","Paweł Olszewski","KO",4,"Bydgoszcz","kujawsko-pomorskie","Pawel.Olszewski@sejm.pl",true
+275,"Mirosław","Adam","Orliński","Mirosław Adam Orliński","PSL-TD",16,"Płock","mazowieckie","Miroslaw.Orlinski@sejm.pl",true
+276,"Łukasz","Tomasz","Osmalak","Łukasz Osmalak","Polska2050-TD",30,"Bielsko-Biała","śląskie","Lukasz.Osmalak@sejm.pl",true
+277,"Katarzyna",,"Osos","Katarzyna Osos","KO",8,"Zielona Góra","lubuskie","Katarzyna.Osos@sejm.pl",true
+278,"Jacek","Piotr","Osuch","Jacek Osuch","PiS",13,"Kraków","małopolskie","Jacek.Osuch@sejm.pl",true
+279,"Jacek","Dawid","Ozdoba","Jacek Ozdoba","PiS",16,"Płock","mazowieckie","Jacek.Ozdoba@sejm.pl",false
+280,"Teresa",,"Pamuła","Teresa Pamuła","PiS",22,"Krosno","podkarpackie","Teresa.Pamula@sejm.pl",true
+281,"Paweł",,"Papke","Paweł Papke","KO",35,"Olsztyn","warmińsko-mazurskie","Pawel.Papke@sejm.pl",true
+282,"Urszula","Stefania","Pasławska","Urszula Pasławska","PSL-TD",35,"Olsztyn","warmińsko-mazurskie","Urszula.Paslawska@sejm.pl",true
+283,"Krzysztof","Michał","Paszyk","Krzysztof Paszyk","PSL-TD",38,"Piła","wielkopolskie","Krzysztof.Paszyk@sejm.pl",true
+284,"Karolina","Monika","Pawliczak","Karolina Pawliczak","KO",36,"Kalisz","wielkopolskie","Karolina.Pawliczak@sejm.pl",true
+285,"Bartłomiej","Artur","Pejo","Bartłomiej Pejo","Konfederacja",6,"Lublin","lubelskie","Bartlomiej.Pejo@sejm.pl",true
+286,"Ryszard","Jerzy","Petru","Ryszard Petru","Polska2050-TD",19,"Warszawa","mazowieckie","Ryszard.Petru@sejm.pl",true
+287,"Małgorzata","Anna","Pępek","Małgorzata Pępek","KO",27,"Bielsko-Biała","śląskie","Malgorzata.Pepek@sejm.pl",true
+288,"Bolesław","Grzegorz","Piecha","Bolesław Piecha","PiS",30,"Bielsko-Biała","śląskie","Boleslaw.Piecha@sejm.pl",true
+289,"Grzegorz",,"Piechowiak","Grzegorz Piechowiak","PiS",38,"Piła","wielkopolskie","Grzegorz.Piechowiak@sejm.pl",true
+290,"Anna","Maria","Pieczarka","Anna Pieczarka","PiS",15,"Tarnów","małopolskie","Anna.Pieczarka@sejm.pl",true
+291,"Katarzyna","Maria","Piekarska","Katarzyna Maria Piekarska","KO",19,"Warszawa","mazowieckie","Katarzyna.Piekarska@sejm.pl",true
+292,"Norbert","jerzy","Pietrykowski","Norbert Pietrykowski","Polska2050-TD",4,"Bydgoszcz","kujawsko-pomorskie","Norbert.Pietrykowski@sejm.pl",true
+293,"Lucjan","Marek","Pietrzczyk","Lucjan Marek Pietrzczyk","KO",33,"Kielce","świętokrzyskie","Lucjan.Pietrzczyk@sejm.pl",true
+294,"Dariusz",,"Piontkowski","Dariusz Piontkowski","PiS",24,"Białystok","podlaskie","Dariusz.Piontkowski@sejm.pl",true
+295,"Kazimierz","Florian","Plocke","Kazimierz Plocke","KO",26,"Słupsk","pomorskie","Kazimierz.Plocke@sejm.pl",true
+296,"Grzegorz","Adam","Płaczek","Grzegorz Płaczek","Konfederacja",31,"Katowice","śląskie","Grzegorz.Placzek@sejm.pl",true
+297,"Kacper","Maciej","Płażyński","Kacper Płażyński","PiS",25,"Gdańsk","pomorskie","Kacper.Plazynski@sejm.pl",true
+298,"Szymon","Marek","Pogoda","Szymon Pogoda","PiS",1,"Legnica","dolnośląskie","Szymon.Pogoda@sejm.pl",true
+299,"Jerzy","Jan","Polaczek","Jerzy Polaczek","PiS",31,"Katowice","śląskie","Jerzy.Polaczek@sejm.pl",true
+300,"Elżbieta","Anna","Polak","Elżbieta Anna Polak","KO",8,"Zielona Góra","lubuskie","Elzbieta.Polak@sejm.pl",true
+301,"Piotr",,"Polak","Piotr Polak","PiS",11,"Sieradz","łódzkie","Piotr.Polak@sejm.pl",true
+302,"Agnieszka","Dominika","Pomaska","Agnieszka Pomaska","KO",25,"Gdańsk","pomorskie","Agnieszka.Pomaska@sejm.pl",true
+303,"Marcin","Bartosz","Porzucek","Marcin Porzucek","PiS",38,"Piła","wielkopolskie","Marcin.Porzucek@sejm.pl",true
+304,"Jacek",,"Protas","Jacek Protas","KO",34,"Elbląg","warmińsko-mazurskie","Jacek.Protas@sejm.pl",false
+305,"Marcin","Paweł","Przydacz","Marcin Przydacz","PiS",11,"Sieradz","łódzkie","Marcin.Przydacz@sejm.pl",false
+306,"Grzegorz","Paweł","Puda","Grzegorz Puda","PiS",27,"Bielsko-Biała","śląskie","Grzegorz.Puda@sejm.pl",true
+307,"Michał",,"Pyrzyk","Michał Pyrzyk","PSL-TD",37,"Konin","wielkopolskie","Michal.Pyrzyk@sejm.pl",true
+308,"Renata","Urszula","Rak","Renata Rak","KO",40,"Koszalin","zachodniopomorskie","Renata.Rak@sejm.pl",true
+309,"Ireneusz",,"Raś","Ireneusz Raś","PSL-TD",13,"Kraków","małopolskie","Ireneusz.Ras@sejm.pl",true
+310,"Zbigniew","Włodzimierz","Rau","Zbigniew Rau","PiS",9,"Łódź","łódzkie","Zbigniew.Rau@sejm.pl",true
+311,"Marcin",,"Romanowski","Marcin Romanowski","PiS",7,"Chełm","lubelskie","Marcin.Romanowski@sejm.pl",true
+312,"Bartosz",,"Romowicz","Bartosz Romowicz","Polska2050-TD",22,"Krosno","podkarpackie","Bartosz.Romowicz@sejm.pl",true
+313,"Monika","Anna","Rosa","Monika Rosa","KO",31,"Katowice","śląskie","Monika.Rosa@sejm.pl",true
+314,"Wiesław","Marian","Różyński","Wiesław Różyński","PSL-TD",7,"Chełm","lubelskie","Wieslaw.Rozynski@sejm.pl",true
+315,"Urszula","Beata","Rusecka","Urszula Rusecka","PiS",15,"Tarnów","małopolskie","Urszula.Rusecka@sejm.pl",true
+316,"Grzegorz","Stanisław","Rusiecki","Grzegorz Rusiecki","KO",36,"Kalisz","wielkopolskie","Grzegorz.Rusiecki@sejm.pl",false
+317,"Jakub","Adam","Rutnicki","Jakub Rutnicki","KO",38,"Piła","wielkopolskie","Jakub.Rutnicki@sejm.pl",true
+318,"Paweł","Piotr","Rychlik","Paweł Rychlik","PiS",11,"Sieradz","łódzkie","Pawel.Rychlik@sejm.pl",true
+319,"Marek","Zdzisław","Rząsa","Marek Rząsa","KO",22,"Krosno","podkarpackie","Marek.Rzasa@sejm.pl",true
+320,"Jarosław","Michał","Rzepa","Jarosław Rzepa","PSL-TD",41,"Szczecin","zachodniopomorskie","Jaroslaw.Rzepa@sejm.pl",true
+321,"Jarosław",,"Sachajko","Jarosław Sachajko","Republikanie",7,"Chełm","lubelskie","Jaroslaw.Sachajko@sejm.pl",true
+322,"Paweł",,"Sałek","Paweł Sałek","PiS",10,"Piotrków Trybunalski","łódzkie","Pawel.Salek@sejm.pl",true
+323,"Wojciech","Paweł","Saługa","Wojciech Saługa","KO",32,"Katowice","śląskie","Wojciech.Saluga@sejm.pl",false
+324,"Tadeusz",,"Samborski","Tadeusz Samborski","PSL-TD",1,"Legnica","dolnośląskie","Tadeusz.Samborski@sejm.pl",true
+325,"Jacek","Robert","Sasin","Jacek Sasin","PiS",24,"Białystok","podlaskie","Jacek.Sasin@sejm.pl",true
+326,"Marek","Wacław","Sawicki","Marek Sawicki","PSL-TD",18,"Siedlce","mazowieckie","Marek.Sawicki@sejm.pl",true
+327,"Ewa","Katarzyna","Schädler","Ewa Schädler","Polska2050-TD",39,"Poznań","wielkopolskie","Ewa.Schadler@sejm.pl",true
+328,"Joanna","Izabela","Scheuring-Wielgus","Joanna Scheuring-Wielgus","Lewica",5,"Toruń","kujawsko-pomorskie","Joanna.Scheuring-Wielgus@sejm.pl",false
+329,"Anna","Katarzyna","Schmidt","Anna Schmidt","PiS",22,"Krosno","podkarpackie","Anna.Schmidt@sejm.pl",true
+330,"Łukasz",,"Schreiber","Łukasz Schreiber","PiS",4,"Bydgoszcz","kujawsko-pomorskie","Lukasz.Schreiber@sejm.pl",true
+331,"Jarosław","Daniel","Sellin","Jarosław Sellin","PiS",25,"Gdańsk","pomorskie","Jaroslaw.Sellin@sejm.pl",true
+332,"Olga","Ewa","Semeniuk-Patkowska","Olga Ewa Semeniuk-Patkowska","PiS",35,"Olsztyn","warmińsko-mazurskie","Olga.Semeniuk-Patkowska@sejm.pl",true
+333,"Edward",,"Siarka","Edward Siarka","PiS",14,"Nowy Sącz","małopolskie","Edward.Siarka@sejm.pl",true
+334,"Krystyna","Mieczysława","Sibińska","Krystyna Sibińska","KO",8,"Zielona Góra","lubuskie","Krystyna.Sibinska@sejm.pl",true
+335,"Czesław","Adam","Siekierski","Czesław Siekierski","PSL-TD",33,"Kielce","świętokrzyskie","Czeslaw.Siekierski@sejm.pl",true
+336,"Rafał",,"Siemaszko","Rafał Siemaszko","KO",26,"Słupsk","pomorskie","Rafal.Siemaszko@sejm.pl",true
+337,"Tomasz",,"Siemoniak","Tomasz Siemoniak","KO",21,"Opole","opolskie","Tomasz.Siemoniak@sejm.pl",true
+338,"Bartłomiej","Henryk","Sienkiewicz","Bartłomiej Sienkiewicz","KO",13,"Kraków","małopolskie","Bartlomiej.Sienkiewicz@sejm.pl",false
+339,"Arkadiusz","-","Sikora","Arkadiusz Sikora","Lewica",1,"Legnica","dolnośląskie","Arkadiusz.Sikora@sejm.pl",true
+340,"Włodzimierz","Bogdan","Skalik","Włodzimierz Skalik","Konfederacja_KP",21,"Opole","opolskie","Wlodzimierz.Skalik@sejm.pl",true
+341,"Marcin","Seweryn","Skonieczka","Marcin Skonieczka","Polska2050-TD",5,"Toruń","kujawsko-pomorskie","Marcin.Skonieczka@sejm.pl",true
+342,"Krystyna",,"Skowrońska","Krystyna Skowrońska","KO",23,"Rzeszów","podkarpackie","Krystyna.Skowronska@sejm.pl",true
+343,"Sławomir",,"Skwarek","Sławomir Skwarek","PiS",6,"Lublin","lubelskie","Slawomir.Skwarek@sejm.pl",true
+344,"Waldemar","Jan","Sługocki","Waldemar Sługocki","KO",8,"Zielona Góra","lubuskie","Waldemar.Slugocki@sejm.pl",true
+345,"Weronika","Anna","Smarduch","Weronika Smarduch","KO",14,"Nowy Sącz","małopolskie","Weronika.Smarduch@sejm.pl",true
+346,"Kazimierz",,"Smoliński","Kazimierz Smoliński","PiS",25,"Gdańsk","pomorskie","Kazimierz.Smolinski@sejm.pl",true
+347,"Anna","Helena","Sobolak","Anna Sobolak","KO",3,"Wrocław","dolnośląskie","Anna.Sobolak@sejm.pl",true
+348,"Krzysztof",,"Sobolewski","Krzysztof Sobolewski","PiS",23,"Rzeszów","podkarpackie","Krzysztof.Sobolewski@sejm.pl",true
+349,"Artur",,"Soboń","Artur Soboń","PiS",6,"Lublin","lubelskie","Artur.Sobon@sejm.pl",false
+350,"Agnieszka","Anna","Soin","Agnieszka Anna Soin","PiS",3,"Wrocław","dolnośląskie","Agnieszka.Soin@sejm.pl",true
+351,"Zbigniew",,"Sosnowski","Zbigniew Sosnowski","PSL-TD",5,"Toruń","kujawsko-pomorskie","Zbigniew.Sosnowski@sejm.pl",true
+352,"Marek","Jan","Sowa","Marek Sowa","KO",12,"Kraków","małopolskie","Marek.Sowa@sejm.pl",true
+353,"Katarzyna",,"Sójka","Katarzyna Sójka","PiS",36,"Kalisz","wielkopolskie","Katarzyna.Sojka@sejm.pl",true
+354,"Magdalena","Joanna","Sroka","Magdalena Sroka","PSL-TD",25,"Gdańsk","pomorskie","Magdalena.Sroka@sejm.pl",true
+355,"Mirosława","Agnieszka","Stachowiak-Różecka","Mirosława Stachowiak-Różecka","PiS",3,"Wrocław","dolnośląskie","Miroslawa.Stachowiak-Rozecka@sejm.pl",true
+356,"Dariusz","Paweł","Stefaniuk","Dariusz Stefaniuk","PiS",7,"Chełm","lubelskie","Dariusz.Stefaniuk@sejm.pl",true
+357,"Franciszek","Wojciech","Sterczewski","Franciszek Sterczewski","KO",39,"Poznań","wielkopolskie","Franciszek.Sterczewski@sejm.pl",true
+358,"Piotr","Paweł","Strach","Piotr Paweł Strach","Polska2050-TD",29,"Katowice","śląskie","Piotr.Strach@sejm.pl",true
+359,"Mirosław","Tadeusz","Suchoń","Mirosław Suchoń","Polska2050-TD",27,"Bielsko-Biała","śląskie","Miroslaw.Suchon@sejm.pl",true
+360,"Marek",,"Suski","Marek Suski","PiS",17,"Radom","mazowieckie","Marek.Suski@sejm.pl",true
+361,"Paweł",,"Suski","Paweł Suski","KO",40,"Koszalin","zachodniopomorskie","Pawel.Suski@sejm.pl",true
+362,"Artur","Lesław","Szałabawka","Artur Szałabawka","PiS",41,"Szczecin","zachodniopomorskie","Artur.Szalabawka@sejm.pl",true
+363,"Wojciech","Piotr","Szarama","Wojciech Szarama","PiS",29,"Katowice","śląskie","Wojciech.Szarama@sejm.pl",true
+364,"Wiesław","Andrzej","Szczepański","Wiesław Szczepański","Lewica",36,"Kalisz","wielkopolskie","Wieslaw.Szczepanski@sejm.pl",true
+365,"Michał","Roch","Szczerba","Michał Szczerba","KO",19,"Warszawa","mazowieckie","Michal.Szczerba@sejm.pl",false
+366,"Krzysztof","Łukasz","Szczucki","Krzysztof Szczucki","PiS",5,"Toruń","kujawsko-pomorskie","Krzysztof.Szczucki@sejm.pl",true
+367,"Józefa",,"Szczurek-Żelazko","Józefa Szczurek-Żelazko","PiS",15,"Tarnów","małopolskie","Jozefa.Szczurek-Zelazko@sejm.pl",true
+368,"Paweł","Maciej","Szefernaker","Paweł Szefernaker","PiS",40,"Koszalin","zachodniopomorskie","Pawel.Szefernaker@sejm.pl",false
+369,"Andrzej","Jan","Szejna","Andrzej Szejna","Lewica",33,"Kielce","świętokrzyskie","Andrzej.Szejna@sejm.pl",true
+370,"Andrzej",,"Szewiński","Andrzej Szewiński","KO",28,"Częstochowa","śląskie","Andrzej.Szewinski@sejm.pl",true
+371,"Adam","Stanisław","Szłapka","Adam Szłapka","KO",39,"Poznań","wielkopolskie","Adam.Szlapka@sejm.pl",true
+372,"Henryk","Marian","Szopiński","Henryk Szopiński","KO",38,"Piła","wielkopolskie","Henryk.Szopinski@sejm.pl",true
+373,"Paweł",,"Szrot","Paweł Szrot","PiS",4,"Bydgoszcz","kujawsko-pomorskie","Pawel.Szrot@sejm.pl",true
+374,"Krystyna","Maria","Szumilas","Krystyna Szumilas","KO",29,"Katowice","śląskie","Krystyna.Szumilas@sejm.pl",true
+375,"Stanisław",,"Szwed","Stanisław Szwed","PiS",27,"Bielsko-Biała","śląskie","Stanislaw.Szwed@sejm.pl",true
+376,"Ewa","Joanna","Szymanowska","Ewa Szymanowska","Polska2050-TD",9,"Łódź","łódzkie","Ewa.Szymanowska@sejm.pl",true
+377,"Tomasz","Józef","Szymański","Tomasz Szymański","KO",5,"Toruń","kujawsko-pomorskie","Tomasz.Szymanski@sejm.pl",true
+378,"Szymon","Andrzej","Szynkowski vel Sęk","Szymon Szynkowski vel Sęk","PiS",39,"Poznań","wielkopolskie","Szymon.SzynkowskiVelSek@sejm.pl",true
+379,"Łukasz","Andrzej","Ściebiorowski","Łukasz Ściebiorowski","KO",31,"Katowice","śląskie","Lukasz.Sciebiorowski@sejm.pl",true
+380,"Agnieszka",,"Ścigaj","Agnieszka Ścigaj","PiS",13,"Kraków","małopolskie","Agnieszka.Scigaj@sejm.pl",true
+381,"Andrzej",,"Śliwka","Andrzej Śliwka","PiS",34,"Elbląg","warmińsko-mazurskie","Andrzej.Sliwka@sejm.pl",true
+382,"Paweł","Marek","Śliz","Paweł Śliz","Polska2050-TD",12,"Kraków","małopolskie","Pawel.Sliz@sejm.pl",true
+383,"Krzysztof","Jan","Śmiszek","Krzysztof Śmiszek","Lewica",3,"Wrocław","dolnośląskie","Krzysztof.Smiszek@sejm.pl",false
+384,"Jacek",,"Świat","Jacek Świat","PiS",3,"Wrocław","dolnośląskie","Jacek.Swiat@sejm.pl",true
+385,"Apoloniusz","Leopold","Tajner","Apoloniusz Tajner","KO",27,"Bielsko-Biała","śląskie","Apoloniusz.Tajner@sejm.pl",true
+386,"Krzysztof",,"Tchórzewski","Krzysztof Tchórzewski","PiS",18,"Siedlce","mazowieckie","Krzysztof.Tchorzewski@sejm.pl",true
+387,"Robert",,"Telus","Robert Telus","PiS",10,"Piotrków Trybunalski","łódzkie","Robert.Telus@sejm.pl",true
+388,"Ryszard","Iwon","Terlecki","Ryszard Terlecki","PiS",14,"Nowy Sącz","małopolskie","Ryszard.Terlecki@sejm.pl",true
+389,"Tadeusz",,"Tomaszewski","Tadeusz Tomaszewski","Lewica",37,"Konin","wielkopolskie","Tadeusz.Tomaszewski@sejm.pl",true
+390,"Jacek","Jerzy","Tomczak","Jacek Tomczak","PSL-TD",39,"Poznań","wielkopolskie","Jacek.Tomczak@sejm.pl",true
+391,"Wioleta","Barbara","Tomczak","Wioleta Tomczak","Polska2050-TD",26,"Słupsk","pomorskie","Wioleta.Tomczak@sejm.pl",true
+392,"Cezary","Józef","Tomczyk","Cezary Tomczyk","KO",11,"Sieradz","łódzkie","Cezary.Tomczyk@sejm.pl",true
+393,"Stanisław",,"Tomczyszyn","Stanisław Tomczyszyn","PSL-TD",8,"Zielona Góra","lubuskie","Stanislaw.Tomczyszyn@sejm.pl",true
+394,"Małgorzata","Elżbieta","Tracz","Małgorzata Tracz","KO",3,"Wrocław","dolnośląskie","Malgorzata.Tracz@sejm.pl",true
+395,"Tomasz","Dominik","Trela","Tomasz Trela","Lewica",9,"Łódź","łódzkie","Tomasz.Trela@sejm.pl",true
+396,"Krzysztof",,"Truskolaski","Krzysztof Truskolaski","KO",24,"Białystok","podlaskie","Krzysztof.Truskolaski@sejm.pl",true
+397,"Krzysztof",,"Tuduj","Krzysztof Tuduj","Konfederacja",3,"Wrocław","dolnośląskie","Krzysztof.Tuduj@sejm.pl",true
+398,"Sylwester","Karol","Tułajew","Sylwester Tułajew","PiS",6,"Lublin","lubelskie","Sylwester.Tulajew@sejm.pl",true
+399,"Witold","Sławomir","Tumanowicz","Witold Tumanowicz","Konfederacja",7,"Chełm","lubelskie","Witold.Tumanowicz@sejm.pl",true
+400,"Donald","Franciszek","Tusk","Donald Tusk","KO",19,"Warszawa","mazowieckie","Donald.Tusk@sejm.pl",true
+401,"Stanisław",,"Tyszka","Stanisław Tyszka","Konfederacja",26,"Słupsk","pomorskie","Stanislaw.Tyszka@sejm.pl",false
+402,"Katarzyna",,"Ueberhan","Katarzyna Ueberhan","Lewica",39,"Poznań","wielkopolskie","Katarzyna.Ueberhan@sejm.pl",true
+403,"Jarosław","Piotr","Urbaniak","Jarosław Urbaniak","KO",36,"Kalisz","wielkopolskie","Jaroslaw.Urbaniak@sejm.pl",true
+404,"Piotr","Marcin","Uruski","Piotr Uruski","PiS",22,"Krosno","podkarpackie","Piotr.Uruski@sejm.pl",true
+405,"Piotr",,"Uściński","Piotr Uściński","PiS",20,"Warszawa","mazowieckie","Piotr.Uscinski@sejm.pl",true
+406,"Jarosław","Leszek","Wałęsa","Jarosław Wałęsa","KO",25,"Gdańsk","pomorskie","Jaroslaw.Walesa@sejm.pl",true
+407,"Marcin","Józef","Warchoł","Marcin Warchoł","PiS",23,"Rzeszów","podkarpackie","Marcin.Warchol@sejm.pl",true
+408,"Robert","Marian","Wardzała","Robert Wardzała","KO",15,"Tarnów","małopolskie","Robert.Wardzala@sejm.pl",true
+409,"Robert","Piotr","Warwas","Robert Warwas","PiS",32,"Katowice","śląskie","Robert.Warwas@sejm.pl",true
+410,"Jan","Marek","Warzecha","Jan Warzecha","PiS",23,"Rzeszów","podkarpackie","Jan.Warzecha@sejm.pl",true
+411,"Małgorzata","Ewa","Wassermann","Małgorzata Wassermann","PiS",13,"Kraków","małopolskie","Malgorzata.Wassermann@sejm.pl",true
+412,"Michał","Jan","Wawer","Michał Wawer","Konfederacja",33,"Kielce","świętokrzyskie","Michal.Wawer@sejm.pl",true
+413,"Maciej",,"Wąsik","Maciej Wąsik","PiS",16,"Płock","mazowieckie","Maciej.Wasik@sejm.pl",false
+414,"Marta","Anna","Wcisło","Marta Wcisło","KO",6,"Lublin","lubelskie","Marta.Wcislo@sejm.pl",false
+415,"Rafał",,"Weber","Rafał Weber","PiS",23,"Rzeszów","podkarpackie","Rafal.Weber@sejm.pl",true
+416,"Marek","Jacek","Wesoły","Marek Wesoły","PiS",31,"Katowice","śląskie","Marek.Wesoly@sejm.pl",true
+417,"Joanna","Beata","Wicha","Joanna Wicha","Lewica",20,"Warszawa","mazowieckie","Joanna.Wicha@sejm.pl",true
+418,"Patryk","Tomasz","Wicher","Patryk Wicher","PiS",14,"Nowy Sącz","małopolskie","Patryk.Wicher@sejm.pl",true
+419,"Dariusz","Krzysztof","Wieczorek","Dariusz Wieczorek","Lewica",41,"Szczecin","zachodniopomorskie","Dariusz.Wieczorek@sejm.pl",true
+420,"Jarosław","Wiesław","Wieczorek","Jarosław Wiesław Wieczorek","PiS",29,"Katowice","śląskie","Jaroslaw.Wieczorek@sejm.pl",true
+421,"Monika",,"Wielichowska","Monika Wielichowska","KO",2,"Wałbrzych","dolnośląskie","Monika.Wielichowska@sejm.pl",true
+422,"Ryszard","Jakub","Wilk","Ryszard Wilk","Konfederacja",14,"Nowy Sącz","małopolskie","Ryszard.Wilk@sejm.pl",true
+423,"Teresa",,"Wilk","Teresa Wilk","PiS",34,"Elbląg","warmińsko-mazurskie","Teresa.Wilk@sejm.pl",true
+424,"Przemysław","Janusz","Wipler","Przemysław Wipler","Konfederacja",5,"Toruń","kujawsko-pomorskie","Przemyslaw.Wipler@sejm.pl",true
+425,"Aleksandra","Karolina","Uznańska-Wiśniewska","Aleksandra Karolina Uznańska-Wiśniewska","KO",9,"Łódź","łódzkie","Aleksandra.Uznanska-Wisniewska@sejm.pl",true
+426,"Adrian",,"Witczak","Adrian Witczak","KO",10,"Piotrków Trybunalski","łódzkie","Adrian.Witczak@sejm.pl",true
+427,"Mariusz","Sebastian","Witczak","Mariusz Witczak","KO",36,"Kalisz","wielkopolskie","Mariusz.Witczak@sejm.pl",true
+428,"Elżbieta","Barbara","Witek","Elżbieta Witek","PiS",1,"Legnica","dolnośląskie","Elzbieta.Witek@sejm.pl",true
+429,"Przemysław","Jarosław","Witek","Przemysław Witek","KO",28,"Częstochowa","śląskie","Przemyslaw.Witek@sejm.pl",true
+430,"Kamil","Wiesław","Wnuk","Kamil Wnuk","Polska2050-TD",32,"Katowice","śląskie","Kamil.Wnuk@sejm.pl",true
+431,"Anna",,"Wojciechowska","Anna Wojciechowska","KO",35,"Olsztyn","warmińsko-mazurskie","Anna.Wojciechowska@sejm.pl",true
+432,"Agnieszka","Krystyna","Wojciechowska van Heukelom","Agnieszka Wojciechowska van Heukelom","PiS",9,"Łódź","łódzkie","Agnieszka.WojciechowskavanHeukelom@sejm.pl",true
+433,"Agata","Katarzyna","Wojtyszek","Agata Wojtyszek","PiS",33,"Kielce","świętokrzyskie","Agata.Wojtyszek@sejm.pl",true
+434,"Bogusław",,"Wołoszański","Bogusław Wołoszański","KO",10,"Piotrków Trybunalski","łódzkie","Boguslaw.Woloszanski@sejm.pl",true
+435,"Michał","Piotr","Woś","Michał Woś","PiS",30,"Bielsko-Biała","śląskie","Michal.Wos@sejm.pl",true
+436,"Grzegorz","Adam","Woźniak","Grzegorz Woźniak","PiS",18,"Siedlce","mazowieckie","Grzegorz.Wozniak@sejm.pl",true
+437,"Tadeusz","Jacek","Woźniak","Tadeusz Woźniak","PiS",11,"Sieradz","łódzkie","Tadeusz.Wozniak@sejm.pl",true
+438,"Michał","Marek","Wójcik","Michał Wójcik","PiS",31,"Katowice","śląskie","Michal.Wojcik@sejm.pl",true
+439,"Maciej","Stanisław","Wróbel","Maciej Wróbel","KO",35,"Olsztyn","warmińsko-mazurskie","Maciej.Wrobel@sejm.pl",true
+440,"Bartłomiej","Piotr","Wróblewski","Bartłomiej Wróblewski","PiS",39,"Poznań","wielkopolskie","Bartlomiej.Wroblewski@sejm.pl",true
+441,"Paweł","Ksawery","Zalewski","Paweł Zalewski","Polska2050-TD",20,"Warszawa","mazowieckie","Pawel.Zalewski@sejm.pl",true
+442,"Adrian","Tadeusz","Zandberg","Adrian Zandberg","Razem",19,"Warszawa","mazowieckie","Adrian.Zandberg@sejm.pl",true
+443,"Andrzej","Tomasz","Zapałowski","Andrzej Tomasz Zapałowski","Konfederacja",22,"Krosno","podkarpackie","Andrzej.Zapalowski@sejm.pl",true
+444,"Bartosz","Józef","Zawieja","Bartosz Zawieja","KO",39,"Poznań","wielkopolskie","Bartosz.Zawieja@sejm.pl",true
+445,"Marcelina","Monika","Zawisza","Marcelina Zawisza","Razem",21,"Opole","opolskie","Marcelina.Zawisza@sejm.pl",true
+446,"Sławomir",,"Zawiślak","Sławomir Zawiślak","Konfederacja_KP",7,"Chełm","lubelskie","Slawomir.Zawislak@sejm.pl",true
+447,"Bogdan","Andrzej","Zdrojewski","Bogdan Andrzej Zdrojewski","KO",3,"Wrocław","dolnośląskie","Bogdan.Zdrojewski@sejm.pl",false
+448,"Witold","Maciej","Zembaczyński","Witold Zembaczyński","KO",21,"Opole","opolskie","Witold.Zembaczynski@sejm.pl",true
+449,"Piotr",,"Zgorzelski","Piotr Zgorzelski","PSL-TD",16,"Płock","mazowieckie","Piotr.Zgorzelski@sejm.pl",true
+450,"Zbigniew",,"Ziejewski","Zbigniew Ziejewski","PSL-TD",34,"Elbląg","warmińsko-mazurskie","Zbigniew.Ziejewski@sejm.pl",true
+451,"Urszula","Sara","Zielińska","Urszula Sara Zielińska","KO",19,"Warszawa","mazowieckie","Urszula.Zielinska@sejm.pl",true
+452,"Jarosław",,"Zieliński","Jarosław Zieliński","PiS",24,"Białystok","podlaskie","Jaroslaw.Zielinski@sejm.pl",true
+453,"Tomasz","Andrzej","Zieliński","Tomasz Zieliński","PiS",7,"Chełm","lubelskie","Tomasz.Zielinski@sejm.pl",true
+454,"Jolanta",,"Zięba-Gzik","Jolanta Zięba-Gzik","PSL-TD",11,"Sieradz","łódzkie","Jolanta.Zieba-Gzik@sejm.pl",true
+455,"Tomasz","Franciszek","Zimoch","Tomasz Zimoch","niez.",3,"Wrocław","dolnośląskie","Tomasz.Zimoch@sejm.pl",true
+456,"Zbigniew","Tadeusz","Ziobro","Zbigniew Ziobro","PiS",23,"Rzeszów","podkarpackie","Zbigniew.Ziobro@sejm.pl",true
+457,"Wojciech","Michał","Zubowski","Wojciech Michał Zubowski","PiS",1,"Legnica","dolnośląskie","Wojciech.Zubowski@sejm.pl",true
+458,"Ireneusz",,"Zyska","Ireneusz Zyska","PiS",2,"Wałbrzych","dolnośląskie","Ireneusz.Zyska@sejm.pl",true
+459,"Bożena","Jadwiga","Żelazowska","Bożena Żelazowska","PSL-TD",20,"Warszawa","mazowieckie","Bozena.Zelazowska@sejm.pl",true
+460,"Anna","Maria","Żukowska","Anna Maria Żukowska","Lewica",19,"Warszawa","mazowieckie","Anna.Zukowska@sejm.pl",true
+461,"Anna",,"Baluch","Anna Baluch","PiS",6,"Lublin","lubelskie","Anna.Baluch@sejm.pl",true
+462,"Magdalena",,"Łośko","Magdalena Łośko","KO",4,"Bydgoszcz","kujawsko-pomorskie","Magdalena.Losko@sejm.pl",true
+463,"Monika","Jolanta","Pawłowska","Monika Pawłowska","PiS",7,"Chełm","lubelskie","Monika.Pawlowska@sejm.pl",true
+464,"Alicja",,"Łuczak","Alicja Łuczak","KO",36,"Kalisz","wielkopolskie","Alicja.Luczak@sejm.pl",true
+465,"Dominik","Andrzej","Jaśkowiec","Dominik Jaśkowiec","KO",13,"Kraków","małopolskie","Dominik.Jaskowiec@sejm.pl",true
+466,"Paweł","Jan","Masełko","Paweł Masełko","KO",21,"Opole","opolskie","Pawel.Maselko@sejm.pl",true
+467,"Katarzyna","Karolina","Stachowicz","Katarzyna Stachowicz","KO",32,"Katowice","śląskie","Katarzyna.Stachowicz@sejm.pl",true
+468,"Lidia",,"Czechak","Lidia Czechak","PiS",36,"Kalisz","wielkopolskie","Lidia.Czechak@sejm.pl",true
+469,"Barbara","Anna","Grygorcewicz","Barbara Grygorcewicz","KO",40,"Koszalin","zachodniopomorskie","Barbara.Grygorcewicz@sejm.pl",true
+470,"Bożenna","Urszula","Hołownia","Bożenna Hołownia","Polska2050-TD",19,"Warszawa","mazowieckie","Bozenna.Holownia@sejm.pl",true
+471,"Urszula","Magdalena","Koszutska","Urszula Koszutska","KO",31,"Katowice","śląskie","Urszula.Koszutska@sejm.pl",true
+472,"Piotr",,"Kowal","Piotr Kowal","Lewica",5,"Toruń","kujawsko-pomorskie","Piotr.Kowal@sejm.pl",true
+473,"Michał","Bartosz","Kowalski","Michał Kowalski","PiS",26,"Słupsk","pomorskie","Michal.Kowalski@sejm.pl",true
+474,"Maria","Joanna","Koźlakiewicz","Maria Joanna Koźlakiewicz","KO",16,"Płock","mazowieckie","Maria.Kozlakiewicz@sejm.pl",true
+475,"Katarzyna",,"Królak","Katarzyna Królak","KO",34,"Elbląg","warmińsko-mazurskie","Katarzyna.Krolak@sejm.pl",true
+476,"Wioletta","Maria","Kulpa","Wioletta Maria Kulpa","PiS",16,"Płock","mazowieckie","Wioletta.Kulpa@sejm.pl",true
+477,"Grzegorz",,"Macko","Grzegorz Macko","PiS",2,"Wałbrzych","dolnośląskie","Grzegorz.Macko@sejm.pl",true
+478,"Jerzy","Witold","Meysztowicz","Jerzy Meysztowicz","KO",13,"Kraków","małopolskie","Jerzy.Meysztowicz@sejm.pl",true
+479,"Krzysztof",,"Mieszkowski","Krzysztof Mieszkowski","KO",3,"Wrocław","dolnośląskie","Krzysztof.Mieszkowski@sejm.pl",true
+480,"Anna",,"Paluch","Anna Paluch","PiS",14,"Nowy Sącz","małopolskie","Anna.Paluch@sejm.pl",true
+481,"Krzysztof","Mariusz","Piątkowski","Krzysztof Piątkowski","KO",9,"Łódź","łódzkie","Krzysztof.Piatkowski@sejm.pl",true
+482,"Mariusz","Piotr","Popielarz","Mariusz Popielarz","KO",18,"Siedlce","mazowieckie","Mariusz.Popielarz@sejm.pl",true
+483,"Magdalena",,"Roguska","Magdalena Roguska","KO",19,"Warszawa","mazowieckie","Magdalena.Roguska@sejm.pl",true
+484,"Marta","Magdalena","Stożek","Marta Stożek","Razem",3,"Wrocław","dolnośląskie","Marta.Stozek@sejm.pl",true
+485,"Krzysztof",,"Szymański","Krzysztof Szymański","Konfederacja",26,"Słupsk","pomorskie","Krzysztof.Szymanski@sejm.pl",true
+486,"Włodzimierz",,"Tomaszewski","Włodzimierz Tomaszewski","PiS",9,"Łódź","łódzkie","Wlodzimierz.Tomaszewski@sejm.pl",true
+487,"Maciej","Tadeusz","Tomczykiewicz","Maciej Tomczykiewicz","KO",27,"Bielsko-Biała","śląskie","Maciej.Tomczykiewicz@sejm.pl",true
+488,"Jarosław","Karol","Krajewski","Jarosław Krajewski","PiS",19,"Warszawa","mazowieckie","Jaroslaw.Krajewski@sejm.pl",true
+489,"Bożena","Grażyna","Lisowska","Bożena Lisowska","KO",6,"Lublin","lubelskie","Bozena.Lisowska@sejm.pl",true
+490,"Michał",,"Połuboczek","Michał Połuboczek","Konfederacja",23,"Rzeszów","podkarpackie","Michal.Poluboczek@sejm.pl",true
+491,"Aleksandra",,"Kot","Aleksandra Kot","KO",13,"Kraków","małopolskie","Aleksandra.Kot@sejm.pl",true
+492,"Rafał",,"Romanowski","Rafał Romanowski","PiS",16,"Płock","mazowieckie","Rafal.Romanowski@sejm.pl",true
+493,"Henryk","Józef","Smolarz","Henryk Smolarz","PSL-TD",6,"Lublin","lubelskie","Henryk.Smolarz@sejm.pl",true
+494,"Robert","Aleksander","Jagła","Robert Jagła","KO",2,"Wałbrzych","dolnośląskie","Robert.Jagla@sejm.pl",true
+495,"Michał",,"Jach","Michał Jach","PiS",41,"Szczecin","zachodniopomorskie","Michal.Jach@sejm.pl",true
+496,"Bogumiła",,"Olbryś","Bogumiła Olbryś","PiS",24,"Białystok","podlaskie","Bogumila.Olbrys@sejm.pl",true
+497,"Tomasz","Piotr","Rzymkowski","Tomasz Rzymkowski","niez.",11,"Sieradz","łódzkie","Tomasz.Rzymkowski@sejm.pl",true
+498,"Marek","Andrzej","Subocz","Marek Subocz","PiS",40,"Koszalin","zachodniopomorskie","Marek.Subocz@sejm.pl",true
